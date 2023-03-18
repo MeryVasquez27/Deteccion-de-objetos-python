@@ -1,0 +1,8 @@
+Lapiz - Mery    
+reloj - Mery
+celular - Mery
+cartera - Alice
+billete - Alice
+persona - Alice
+gorra - Pacheco
+cuaderno - Pacheco
